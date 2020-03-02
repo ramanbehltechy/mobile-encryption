@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Mohit\\Projects\\Interviews\\02 March 2020\\mobile-encrytion\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Techbit-34\\.gradle\\caches\\transforms-2\\files-2.1\\e5a8105ceddba51762d8a5f42fff50fc\\jetified-play-services-wallet-16.0.1\\res\\values-en-rSG\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "204",
+                        "endColumns": "99",
+                        "endOffsets": "303"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}
